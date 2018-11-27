@@ -1,6 +1,6 @@
 ---
 title: 'Stats 101A Project'
-author: 'Ashwin Ayyasamy'
+author: 'Ashwin Ayyasamy, Naren Akurati, Simran Vatsa, Sohom Paul, Jeremy Phan'
 date: "3/23/2018"
 output:
   pdf_document: default
